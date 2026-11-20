@@ -1,0 +1,9 @@
+title: Intune course labs
+description: Lab instructions and resources for Microsoft Intune workshops
+theme: jekyll-theme-primer
+markdown: kramdown
+kramdown:
+  input: GFM
+  hard_wrap: false
+exclude:
+  - README.md
