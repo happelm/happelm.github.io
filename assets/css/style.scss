@@ -6,12 +6,10 @@
 .markdown-body { max-width: 1100px; margin: 0 auto; }
 .provider { margin: 2rem 0 0.5rem; padding: 0.4rem 0.8rem; border-left: 6px solid; border-bottom: none; }
 .provider.etc { border-color: #0078D4; background: #EAF3FB; }
-.provider.fl { border-color: #D83B01; background: #FCEEE7; }
 .provider.res { border-color: #737373; background: #F2F2F2; }
 .cards { display: grid; grid-template-columns: repeat(auto-fill, minmax(300px, 1fr)); gap: 1rem; margin-bottom: 1rem; }
 .card { border: 1px solid #D9D9D9; border-radius: 6px; padding: 1rem; }
 .cards.etc .card { border-top: 4px solid #0078D4; }
-.cards.fl .card { border-top: 4px solid #D83B01; }
 .cards.res .card { border-top: 4px solid #737373; }
 .card h3 { margin-top: 0; }
 .card .meta { color: #57606a; font-size: 0.9em; margin-bottom: 0.5rem; }

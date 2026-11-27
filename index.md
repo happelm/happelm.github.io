@@ -35,23 +35,6 @@ Lab instructions for my Microsoft Intune workshops. Pick your course to open its
   </div>
 </div>
 
-<h2 class="provider fl">Fast Lane</h2>
-
-<div class="cards fl">
-  <div class="card">
-    <h3>IMDMB</h3>
-    <div class="meta">5 days · Windows, Android, iOS/iPadOS</div>
-    <p>Masterclass Intune Modern Device Management Intensiv Bundle.</p>
-    <div class="links"><a href="https://happelm.github.io/IMDMB/">Lab guide</a><a href="https://github.com/happelm/IMDMB">Repository</a></div>
-  </div>
-  <div class="card">
-    <h3>Intune-TS</h3>
-    <div class="meta">3 days · troubleshooting</div>
-    <p>Troubleshooting Microsoft Intune.</p>
-    <div class="links"><a href="https://happelm.github.io/FL-IntuneTS/">Lab guide</a><a href="https://github.com/happelm/FL-IntuneTS">Repository</a></div>
-  </div>
-</div>
-
 <h2 class="provider res">Resources</h2>
 
 <div class="cards res">
